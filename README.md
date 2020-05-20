@@ -1,6 +1,6 @@
 # Vulturous Zombie + Altar of Dementia Cascade Calculator
 
-## A quick Ruby script for calculating the total destructive deck-destroying potential of multiple Vulturous Zombies and an Altar of Dementia in MTG
+## A quick Ruby script for calculating the total deck-destroying potential of multiple Vulturous Zombies and an Altar of Dementia in MTG
 
 In *Magic the Gathering*, a mild and silly combo exists when sacrificing multiple [Vulturous Zombie](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446906)s to an [Altar of Dementia](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464167).
 
