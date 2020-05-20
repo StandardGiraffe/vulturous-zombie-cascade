@@ -56,9 +56,9 @@ Total Milled: 131
 Zombie Power Roster: []
 
 
-Now that all the zombies are sacrificed,
-and assuming one player with sufficient cards in library was the target,
-the total cards milled was 131.
+Now that all the zombies are sacrificed, and assuming a library
+with sufficient cards was the target at each activation,
+the total number of cards milled was 131.
 
 ... Yeesh.
 ```
